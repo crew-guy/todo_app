@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "868200347204",
+    "project_id": "flut-fire-46110",
+    "storage_bucket": "flut-fire-46110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868200347204:android:f356415c111ea31d1aae11",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868200347204-r91u5ah7g4eekgd5esrhtpbjj9rsvscn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.todo_app",
+            "certificate_hash": "db5c3f0d8d9a79e67ff3ea28dc300d472107fa9d"
+          }
+        },
+        {
+          "client_id": "868200347204-u3isu86ioe6mgh7f30ddvuflfa7rh2u5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-ESKqNJlDHPiymWnNZUaWCysHf_0OSW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868200347204-u3isu86ioe6mgh7f30ddvuflfa7rh2u5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
